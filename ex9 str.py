@@ -5,4 +5,5 @@ for i in range(1,50) :
     for j in range(0,l):
      a=a+int(s[j])
     if a<9 :
-     print(i) 
+     print(i,end=" ")
+    a=0
