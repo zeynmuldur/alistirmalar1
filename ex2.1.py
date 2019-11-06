@@ -1,6 +1,5 @@
 import random
 a=random.randint(10,98)
-print(a)
 sa=str(a)
 x=0
 while x!=a :
