@@ -5,6 +5,6 @@ def asal(n):
             return False
     return True
 
-for j in range(1,10,1):
+for j in range(10000,100000,1):
     if(asal(j)):
      print(j)
